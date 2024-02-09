@@ -1,0 +1,647 @@
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.96
+person: Lily
+persons mother: None
+persons father: None
+0.96
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.01
+person: Lily
+persons mother: None
+persons father: None
+0.96
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.96
+person: Lily
+persons mother: None
+persons father: None
+0.96
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.96
+person: Lily
+persons mother: None
+persons father: None
+0.01
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.01
+person: Lily
+persons mother: None
+persons father: None
+0.96
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.01
+person: Lily
+persons mother: None
+persons father: None
+0.01
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.96
+person: Lily
+persons mother: None
+persons father: None
+0.01
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.01
+person: Lily
+persons mother: None
+persons father: None
+0.01
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.03
+person: Lily
+persons mother: None
+persons father: None
+0.96
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.03
+person: Lily
+persons mother: None
+persons father: None
+0.96
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.03
+person: Lily
+persons mother: None
+persons father: None
+0.01
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.03
+person: Lily
+persons mother: None
+persons father: None
+0.01
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.96
+person: Lily
+persons mother: None
+persons father: None
+0.96
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.01
+person: Lily
+persons mother: None
+persons father: None
+0.96
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.96
+person: Lily
+persons mother: None
+persons father: None
+0.01
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.01
+person: Lily
+persons mother: None
+persons father: None
+0.01
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.96
+person: Lily
+persons mother: None
+persons father: None
+0.03
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.01
+person: Lily
+persons mother: None
+persons father: None
+0.03
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.96
+person: Lily
+persons mother: None
+persons father: None
+0.03
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.01
+person: Lily
+persons mother: None
+persons father: None
+0.03
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.03
+person: Lily
+persons mother: None
+persons father: None
+0.96
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.03
+person: Lily
+persons mother: None
+persons father: None
+0.01
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.03
+person: Lily
+persons mother: None
+persons father: None
+0.03
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.03
+person: Lily
+persons mother: None
+persons father: None
+0.03
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.96
+person: Lily
+persons mother: None
+persons father: None
+0.03
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.01
+person: Lily
+persons mother: None
+persons father: None
+0.03
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.03
+person: Lily
+persons mother: None
+persons father: None
+0.03
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.96
+person: Lily
+persons mother: None
+persons father: None
+0.96
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.01
+person: Lily
+persons mother: None
+persons father: None
+0.96
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.96
+person: Lily
+persons mother: None
+persons father: None
+0.96
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.96
+person: Lily
+persons mother: None
+persons father: None
+0.01
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.01
+person: Lily
+persons mother: None
+persons father: None
+0.96
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.01
+person: Lily
+persons mother: None
+persons father: None
+0.01
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.96
+person: Lily
+persons mother: None
+persons father: None
+0.01
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.01
+person: Lily
+persons mother: None
+persons father: None
+0.01
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.03
+person: Lily
+persons mother: None
+persons father: None
+0.96
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.03
+person: Lily
+persons mother: None
+persons father: None
+0.96
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.03
+person: Lily
+persons mother: None
+persons father: None
+0.01
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.03
+person: Lily
+persons mother: None
+persons father: None
+0.01
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.96
+person: Lily
+persons mother: None
+persons father: None
+0.96
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.01
+person: Lily
+persons mother: None
+persons father: None
+0.96
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.96
+person: Lily
+persons mother: None
+persons father: None
+0.01
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.01
+person: Lily
+persons mother: None
+persons father: None
+0.01
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.96
+person: Lily
+persons mother: None
+persons father: None
+0.03
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.01
+person: Lily
+persons mother: None
+persons father: None
+0.03
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.96
+person: Lily
+persons mother: None
+persons father: None
+0.03
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.01
+person: Lily
+persons mother: None
+persons father: None
+0.03
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.03
+person: Lily
+persons mother: None
+persons father: None
+0.96
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.03
+person: Lily
+persons mother: None
+persons father: None
+0.01
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.03
+person: Lily
+persons mother: None
+persons father: None
+0.03
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.03
+person: Lily
+persons mother: None
+persons father: None
+0.03
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.96
+person: Lily
+persons mother: None
+persons father: None
+0.03
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.01
+person: Lily
+persons mother: None
+persons father: None
+0.03
+people: {'Harry': {'name': 'Harry', 'mother': 'Lily', 'father': 'James', 'trait': None}, 'James': {'name': 'James', 'mother': None, 'father': None, 'trait': True}, 'Lily': {'name': 'Lily', 'mother': None, 'father': None, 'trait': False}}
+person: Harry
+persons mother: Lily
+persons father: James
+person: James
+persons mother: None
+persons father: None
+0.03
+person: Lily
+persons mother: None
+persons father: None
+0.03
